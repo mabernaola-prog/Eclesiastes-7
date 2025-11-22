@@ -1,0 +1,5 @@
+{
+  "name": "Eclesiastes 7",
+  "description": "Herramienta de generación visual para crear imágenes conceptuales en contraste usando Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
